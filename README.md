@@ -6,3 +6,4 @@ The files to reproduce the results found in the main paper (and in the supplemen
 2. deterministic_datagen_wide_true.R: code to produce the true parameter estimates
 3. dr.R: codes to produce the parameter estimates and standard errors from the doubly robust method described in the paper
 4. ipw.R/gcomp.R: codes to produce the parameter estimates and standard errors from the singly robust estimators described in the paper
+5. /ML_sim: contains codes to produce simulation results when nuisance functions are estimated with machine learning algorithms
